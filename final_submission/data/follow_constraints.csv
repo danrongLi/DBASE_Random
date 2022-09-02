@@ -1,0 +1,27 @@
+cid,constraints_content,qid
+1,fit in a 32-bit signed integer,1294
+2,"The distance between two indices i and j is abs(i - j), where abs is the absolute value function.",821
+3,you cannot move to the cell that you visited in your last move.,1559
+4,"Note that even if there are multiple ways to obtain the same subsequence, it is still only counted once.",1930
+5,"Nary-Tree input serialization is represented in their level order traversal, each group of children is separated by the null value",559
+6,"The valid times are those inclusively between 00:00 and 23:59.
+",1736
+7,The words in paragraph are case-insensitive and the answer should be returned in lowercase.,819
+8,"More formally, the rearranged array should have the property such that for every i in the range 1 <= i < nums.length - 1, (nums[i-1] + nums[i+1]) / 2 is not equal to nums[i].",1968
+9,"Search for a node to remove.
+If the node is found, delete the node.",450
+10,"A skiplist is a data structure that takes O(log(n)) time to add, erase and search. Comparing with treap and red-black tree which has the same function and performance, the code length of Skiplist can be comparatively short and the idea behind Skiplists is just simple linked lists.",1206
+11,"Initially, all next pointers are set to NULL.",116
+12,Return the result of adding arr1 and arr2 in the same format: as an array of 0s and 1s with no leading zeros.,1073
+13,You must write an algorithm that runs in O(log n) time.,153
+14,Each letter in magazine can only be used once in ransomNote.,383
+15,"The value of coordinate (a, b) of the matrix is the XOR of all matrix[i][j] where 0 <= i <= a < m and 0 <= j <= b < n (0-indexed).",1738
+16,1 <= nums.length <= 10^5,189
+17,1 <= n <= 10^9,868
+18,1 <= nums.length <= 10^4,45
+19,1 <= nums.length <= 2000,673
+20,1 <= coins.length <= 12,322
+21,1 <= nums.length <= 10^5,862
+22,"The number of nodes in the tree is in the range [1, 1000].",404
+23,"1 <= arr1.length, arr2.length <= 1000",1122
+24,1 <= arr.length <= 10^4,1299

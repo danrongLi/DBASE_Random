@@ -1,0 +1,30 @@
+cid,title,pid
+6003,Foundations of Computer Science,1
+6043,Design and Analysis of Algorithms II,3
+6063,Software Engineering I,4
+6083,Principles of Database Systems,5
+6233,Introduction to Operating Systems,6
+6313,INFORMATION VISUALIZATION,7
+6373,Programming Languages,8
+6513,Big Data,9
+6543,Human Computer Interaction,10
+6553,Game Design,11
+6643,COMPUTER VISION,12
+6823,Network Security,13
+6843,Computer Networking,14
+6903,Applied Cryptography,16
+6923,Machine Learning,17
+5213,Introduction to Systems Engineering,18
+5253,APPLIED MATRIX THEORY,19
+6483,Real Time Embedded Systems,20
+5553,Physics of Quantum Computing,20
+6013,Digital Communications,21
+6183,Digital Signal Processing Laboratory,22
+6303,Probability and Stochastic Processes,23
+6353,INTERNET ARCHITECTURE & PROTOCOLS,15
+6363,Data Center and Cloud Computing,24
+6383,High-Speed Networks,24
+6403,Fundamentals of Analog Integrated Circuit Design,25
+6443,VLSI System and Architecture Design,26
+6633,"Transients, Surges and Faults in Power Systems",27
+6673,RESONANT POWER CONVERTERS,28
